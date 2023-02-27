@@ -1,0 +1,16 @@
+.itemBox{
+    text-align: center;
+    width: 250px;
+    height:250px;
+    border-radius: 5px;
+    border: 1px solid black;
+
+}
+.textItem{
+    display: flex;
+    justify-content: space-around;
+}
+.itemInput{
+    margin-top: 10px;
+    
+}
